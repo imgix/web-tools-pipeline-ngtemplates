@@ -1,6 +1,6 @@
 {
   "name": "web-tools-builder-ngtemplates",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "Web-tools builder pipeline for injecting standalone templates into the Angular cache",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "lodash": "4.6.1",
     "reporter-plus": "git://github.com/jayeb/reporter-plus.git",
     "stream-combiner": "0.2.2",
-    "web-tools": "7.0.0"
+    "web-tools": "git+https://github.com/imgix/web-tools.git#7.1.0"
   },
   "devDependencies": {
     "gulp": "3.9.1",
