@@ -52,6 +52,7 @@ module.exports = function buildTemplates(options) {
 
     // Processing pipeline
     options.doMinify && gulpPlugins.htmlmin(options.htmlMinifyOptions),
+    gulpPlugins.trim(),
     gulpPlugins.ngHtml2Js(options.ngHtml2JsOptions),
     gulpPlugins.rename(options.renameOptions),
 
