@@ -1,6 +1,6 @@
 {
   "name": "web-tools-builder-ngtemplates",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Web-tools builder pipeline for injecting standalone templates into the Angular cache",
   "repository": {
     "type": "git",
