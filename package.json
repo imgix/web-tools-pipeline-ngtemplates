@@ -1,20 +1,19 @@
 {
-  "name": "web-tools-builder-ngtemplates",
+  "name": "web-tools-pipeline-ngtemplates",
   "version": "1.2.0",
-  "description": "Web-tools builder pipeline for injecting standalone templates into the Angular cache",
+  "description": "Web-tools pipeline for injecting standalone templates into the Angular cache",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imgix/web-tools-builder-ngtemplates"
+    "url": "https://github.com/imgix/web-tools-pipeline-ngtemplates"
   },
   "author": "imgix",
   "license": "BSD",
-  "main": "tools/builder.ngtemplates.js",
+  "main": "tools/web-tools-pipeline-ngtemplates.js",
   "dependencies": {
     "gulp-concat": "2.6.0",
     "gulp-header": "1.7.1",
     "gulp-htmlhint": "0.3.1",
     "gulp-htmlmin": "1.3.0",
-    "gulp-load-plugins": "1.2.0",
     "gulp-ng-html2js": "0.2.2",
     "gulp-rename": "1.2.2",
     "gulp-rev": "7.0.0",
