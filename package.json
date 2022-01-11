@@ -19,8 +19,8 @@
     "gulp-rev": "7.0.0",
     "gulp-trim": "^1.0.2",
     "gulp-uglify": "1.5.3",
-    "lodash": "4.6.1",
-    "reporter-plus": "git://github.com/jayeb/reporter-plus.git",
+    "lodash": "4.17.21",
+    "reporter-plus": "git+https://github.com/jayeb/reporter-plus.git",
     "stream-combiner": "0.2.2",
     "web-tools": "git+https://github.com/imgix/web-tools.git#7.1.0"
   },
@@ -31,7 +31,7 @@
     "gulp-util": "3.0.7",
     "jshint": "2.9.1",
     "lodash": "4.6.1",
-    "reporter-plus": "git://github.com/jayeb/reporter-plus.git",
+    "reporter-plus": "git+https://github.com/jayeb/reporter-plus.git",
     "yargs": "4.2.0"
   }
 }
